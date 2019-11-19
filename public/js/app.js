@@ -76828,7 +76828,7 @@ function (_Component) {
       }), this.validator.message('desc', this.state.desc, 'required'))), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Modal__WEBPACK_IMPORTED_MODULE_1__["default"].Footer, null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
         bsstyle: "primary",
         onClick: this.submit
-      }, "Edit Recipe"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
+      }, "SAVE"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
         onClick: close
       }, "Close"))));
     } // Addbook.PropTypes =
@@ -77459,7 +77459,7 @@ function (_Component) {
       }))), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Modal__WEBPACK_IMPORTED_MODULE_1__["default"].Footer, null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
         bsstyle: "primary",
         onClick: this.update
-      }, "Edit Recipe"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
+      }, "Edit "), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_0__["default"], {
         onClick: close
       }, "Close"))));
     }

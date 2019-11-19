@@ -85,7 +85,7 @@
             </form>
             </Modal.Body>
             <Modal.Footer>
-            <Button bsstyle="primary"  onClick={this.submit}>Edit Recipe</Button>
+            <Button bsstyle="primary"  onClick={this.submit}>SAVE</Button>
             <Button onClick={close}>Close</Button>
             </Modal.Footer>
             </Modal>

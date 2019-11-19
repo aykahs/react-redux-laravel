@@ -36,7 +36,7 @@
 
             this.setState({
             [event.target.name]: event.target.value
-            })  
+            })
             }
             update()
             {
@@ -68,7 +68,7 @@
             </form>
             </Modal.Body>
             <Modal.Footer>
-            <Button bsstyle="primary"  onClick={this.update}>Edit Recipe</Button>
+            <Button bsstyle="primary"  onClick={this.update}>Edit </Button>
             <Button onClick={close}>Close</Button>
             </Modal.Footer>
             </Modal>
@@ -76,5 +76,5 @@
             );
             }
       }
-      
+
 export default connect(null,{ editbook })(Trigger);
